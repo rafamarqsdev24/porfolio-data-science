@@ -1,6 +1,6 @@
 # 📊 Portfólio de Ciência de Dados — Rafael Marques
 
-> Esse repositório tem como intuito de facilitar e organizar o acesso a todos os meus projetos de Ciência de Dados, desenvolvidos ao longo dos meus estudos em Python, SQL, Estatística e visualização de dados.
+> Esse repositório tem como intuito de facilitar e organizar o acesso a todos os meus projetos de Ciência de Dados, desenvolvidos ao longo dos meus estudos em Python, SQL, Machine Learning, Estatística e Visualização de Dados.
 
 ---
 
