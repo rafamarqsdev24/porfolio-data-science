@@ -22,6 +22,14 @@
 
 ---
 
+### [Recuperação da Confiabilidade dos Dados de Vendas](https://github.com/rafamarqsdev24/cafe_sales)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+> Pipeline ponta a ponta de engenharia e análise de dados de vendas de uma cafeteria utilizando Python, Pandas, PostgreSQL e Streamlit, utilizando ainda um ambiente reprodutível com o Pixi. Inclui exploração e preparação dos dados, com consultas analíticas no Banco de Dados. 
+
+---
+
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafamarques12/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafamarqsdev24/)
